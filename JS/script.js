@@ -1,5 +1,5 @@
 function myFunction() {
     window.open(
-        'SSD_Assignment_2.pdf'
+        'resources/SSD_Assignment_2.pdf'
     );
 }
