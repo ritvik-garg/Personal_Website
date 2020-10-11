@@ -1,7 +1,8 @@
 # Assignment 2
 
 ### Link to the website
-Hosted on `web.iiit.ac.in` : [Click Here!!](https://web.iiit.ac.in/~ritvik.garg/)
+Hosted at `web.iiit.ac.in` : [Click Here!!](https://web.iiit.ac.in/~ritvik.garg/)
+Hosted at `github.com` : [Click Here!!](https://ritvik-garg.github.io/SSD-Assignment2/index.html)
 ### How to RUN ?
 Just open the`index.html` file in `any browser` , and in `any device`.
 
